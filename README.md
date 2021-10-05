@@ -9,4 +9,4 @@
 ### 7. Write a Java Program which reads the user’s input in integer value and detects whether that number is equal to 0, is between 1 – 25, is equal to 25, is between 25 – 50, is equal to 51, is between 51 – 75,  76 – 100 or greater than 100.
 ### 8. Write a Java Program to get 3 lengths of a triangle from the user as an input and print whether the triangle is a scalene, isosceles or an equilateral triangle.
 ### 9. Write a Java Program to get 4 angles of a quadrilateral (except triangle) and detect whether it is valid/proper quadrilateral or not (sum of 4 angles is 360 or not).
-### 10. Write a Java Program to get a string from the user and print whether it has less than 5 or 10 characters or not.
+### 10. Write a Java Program to get a string from the user and print whether it has less than 10 characters or not.
