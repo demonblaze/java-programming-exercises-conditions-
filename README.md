@@ -1,7 +1,7 @@
 # Java Programming Exercises (Conditions)
 
 ### 1. Write a Java program to get a number from the user and print whether it is positive or negative.
-### 2. Write a Java program to get an input from a user and print whether that number is an odd number or an even number. If the number isn’t even or odd it should print that that number is a prime number.
+### 2. Write a Java program to get an input from a user and print whether that number is an odd number or an even number.
 ### 3. Take three numbers from the user and print the greatest number.
 ### 4. Write a Java program that reads a floating-point number and prints "zero" if the number is zero. Otherwise, print "positive" or "negative". Add "small" if the absolute value of the number is less than 1, or "large" if it exceeds 1,000,000.
 ### 5. Write a Java Program that reads a number in integer value and detects whether that number is a perfect cube number or a perfect square number or not.
